@@ -1,2 +1,2 @@
-# Hi, I'm Amir Jani
+Hi, I'm Amir Jani
 
