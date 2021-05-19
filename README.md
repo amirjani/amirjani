@@ -4,7 +4,7 @@ I'm a software developer from Iran. 🇮🇷
 
 I have been building APIs and tools with different teams and organizations.
 
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+I like to build things with distributed systems, SQL and NoSQL databases, Docker, PHP, TypeScript (and JavaScript), modern backend APIs.
 
 If my open source projects are useful for your **product/company** you can also sponsor my work on them.
 
