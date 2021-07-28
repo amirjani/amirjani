@@ -10,7 +10,7 @@ If my open source projects are useful for your **product/company** you can also 
 
 You can find me on:
 
-* [My website: amirjani.me](https://amirjani.,e/)
+* [My website: amirjani.me](https://amirjani.me/)
 * [Twitter as @amir__jani](https://twitter.com/amir__jani)
 * [GitHub as @amirjani (you are here)](https://github.com/amirjani)
 * [LinkedIn](https://linkedin.com/in/amir-jani)
