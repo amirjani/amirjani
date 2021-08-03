@@ -6,8 +6,6 @@ I have been building APIs and tools with different teams and organizations.
 
 I like to build things with distributed systems, SQL and NoSQL databases, Docker, PHP, TypeScript (and JavaScript), modern backend APIs.
 
-If my open source projects are useful for your **product/company** you can also sponsor my work on them.
-
 You can find me on:
 
 * [My website: amirjani.me](https://amirjani.me/)
