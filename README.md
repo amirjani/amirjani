@@ -1,4 +1,4 @@
-### Hey! I'm [@Amir__Jani](https://twitter.com/amir__jani) (Amirhossein Jani) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hey! I'm [@Amir__Jani](https://twitter.com/amir__jani) (Amirhossein Jani)
 
 I'm a software developer from Iran. 🇮🇷
 
