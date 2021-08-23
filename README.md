@@ -14,11 +14,4 @@ I like to build things with distributed systems, SQL and NoSQL databases, Docker
 * [GitHub as @amirjani (you are here)](https://github.com/amirjani)
 * [LinkedIn](https://linkedin.com/in/amir-jani)
 
-<hr>
-
-### GitHub Stats
-
-![Amir Jani Stats](https://github-readme-stats.vercel.app/api?username=amirjani&show_icons=true&theme=gotham)
-
-
 
