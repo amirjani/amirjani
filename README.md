@@ -2,10 +2,17 @@
 
 I'm a software developer from Iran. 🇮🇷
 
-I have been building APIs and tools with different teams and organizations.
+As a software developer,I have over 4 years of experience working on a various projects ranging from full stack to enterprise projects.
 
-I like to build things with distributed systems, SQL and NoSQL databases, Docker, PHP, TypeScript (and JavaScript), modern backend APIs.
-<hr>
+I currently work as a software developer with Sparlus(Supnex). You'll find me working on complex projects and finding best approaches solving problems.
+
+I'm passionate about the work I do but even more so devoted to cultivating a positive and efficient environment. whether in the office or working remotely, my door is always open to all.
+
+my skills are:
+
+* Backend development with: NodeJs, PHP, Go, Python 
+* Database: SQL and NoSQL like mySQL, PostgreSQL, MongoDB 
+* Other: Docker, RabbitMQ, Redis, ELK, ... 
 
 ### You can find me on:
 
