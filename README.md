@@ -20,7 +20,3 @@ my skills are:
 * [Twitter as @amir__jani](https://twitter.com/amir__jani)
 * [GitHub as @amirjani (you are here)](https://github.com/amirjani)
 * [LinkedIn](https://linkedin.com/in/amir-jani)
-
-
-<a href="https://stackexchange.com/users/8792296"><img src="https://stackexchange.com/users/flair/8792296.png?theme=dark" width="208" height="58" alt="profile for Amir Jani on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Amir Jani on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
