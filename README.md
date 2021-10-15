@@ -2,7 +2,7 @@
 
 I'm a software developer from Iran. 🇮🇷
 
-As a software developer,I have over 4 years of experience working on a various projects ranging from full stack to enterprise projects.
+As a software developer, I have over 4 years of experience working on a various projects ranging from full stack to enterprise projects.
 
 I currently work as a software developer with Sparlus(Supnex). You'll find me working on complex projects and finding best approaches solving problems.
 
