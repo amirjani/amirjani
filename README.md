@@ -10,7 +10,7 @@ I'm passionate about the work I do but even more so devoted to cultivating a pos
 
 my skills are:
 
-* __*Backend development*__: NodeJs, PHP, Go, Python 
+* __*Backend development*__: NodeJs, PHP, Go(Learning)
 * __*Database*__: SQL and NoSQL like mySQL, PostgreSQL, MongoDB 
 * __*Other*__: Docker, RabbitMQ, Redis, ELK, ... 
 
