@@ -19,3 +19,6 @@ my skills are:
 * [My website: amirjani.me](https://amirjani.me/)
 * [GitHub as @amirjani (you are here)](https://github.com/amirjani)
 * [LinkedIn](https://linkedin.com/in/amir-jani)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amirjani)](https://github.com/LordDashMe/github-contribution-stats/)
+
