@@ -19,3 +19,5 @@ my skills are:
 * [My website: amirjani.me](https://amirjani.me/)
 * [GitHub as @amirjani (you are here)](https://github.com/amirjani)
 * [LinkedIn](https://linkedin.com/in/amir-jani)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amirjani&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
