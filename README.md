@@ -14,7 +14,7 @@ my skills are:
 * __*Database*__: SQL and NoSQL like mySQL, PostgreSQL, MongoDB 
 * __*Other*__: Docker, Redis
 
-### You can find me on:
+### socials:
 
 * [My website: amirjani.me](https://amirjani.me/)
 * [GitHub as @amirjani (you are here)](https://github.com/amirjani)
