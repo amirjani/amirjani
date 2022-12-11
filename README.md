@@ -1,6 +1,6 @@
 ### Hey! I'm __Amirhossein Jani__
 
-I'm a software developer from Iran. 🇮🇷
+I'm a software developer from Iran. (Women, Life, Freedom)
 
 As a software developer, I have over 4 years of experience working on a various projects ranging from full stack to enterprise projects.
 
