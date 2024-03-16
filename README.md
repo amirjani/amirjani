@@ -15,6 +15,4 @@ I'm passionate about the work I do but even more so devoted to cultivating a pos
 * [LinkedIn](https://linkedin.com/in/amir-jani)
 
 ### Stats
-<div align="center" style="width: 80%;">
-    <img src="https://streak-stats.demolab.com?user=amirjani&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%">
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=amirjani&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
