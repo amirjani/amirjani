@@ -10,7 +10,3 @@ I am passionate about my work and dedicated to fostering a positive, efficient e
 - [GitHub (@amirjani)](https://github.com/amirjani)
 - [LinkedIn](https://linkedin.com/in/amir-jani)
 
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amirjani&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
