@@ -1,18 +1,16 @@
-### Hey! I'm __Amirhossein Jani__
+# Hello, I'm **Amirhossein Jani**
 
-I'm a software developer from Portugal.
+I'm a software developer based in Portugal with over six years of experience in full stack and enterprise-level projects. I currently work with Sparlus (Supnex), where I apply my skills to deliver innovative software solutions.
 
-As a software developer, I have over 6 years of experience working on a various projects ranging from full stack to enterprise projects.
+I am passionate about my work and dedicated to fostering a positive, efficient environment—whether collaborating in the office or working remotely. My door is always open to new ideas and opportunities.
 
-I currently work as a software developer with Sparlus(Supnex).
+## Connect with Me
 
-I'm passionate about the work I do but even more so devoted to cultivating a positive and efficient environment. whether in the office or working remotely, my door is always open to all.
+- [My Website: amirjani.me](https://amirjani.me/)
+- [GitHub (@amirjani)](https://github.com/amirjani)
+- [LinkedIn](https://linkedin.com/in/amir-jani)
 
-### socials:
+## GitHub Stats
 
-* [My website: amirjani.me](https://amirjani.me/)
-* [GitHub as @amirjani (you are here)](https://github.com/amirjani)
-* [LinkedIn](https://linkedin.com/in/amir-jani)
-
-### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=amirjani&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
