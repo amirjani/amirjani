@@ -12,5 +12,5 @@ I am passionate about my work and dedicated to fostering a positive, efficient e
 
 <div align="center">
   <p align="left" style:background_color="green">Visitor count</p>
-  <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/amirjani/count.svg?"  />
 </div>
