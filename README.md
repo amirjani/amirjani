@@ -10,7 +10,3 @@ I am passionate about my work and dedicated to fostering a positive, efficient e
 - [GitHub (@amirjani)](https://github.com/amirjani)
 - [LinkedIn](https://linkedin.com/in/amir-jani)
 
-<div align="center">
-  <p align="left" style:background_color="green">Visitor count</p>
-  <img src="https://profile-counter.glitch.me/amirjani/count.svg?"  />
-</div>
